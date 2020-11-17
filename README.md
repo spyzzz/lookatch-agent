@@ -72,3 +72,4 @@ lookatch-agent run -c config.json
 
 
 
+test
